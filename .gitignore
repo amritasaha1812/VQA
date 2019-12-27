@@ -1,0 +1,7 @@
+masked_rcnn_output/*
+masked_rcnn_output
+data
+data/*
+raw_data
+raw_data/*
+preprocessed_vqa.zip
